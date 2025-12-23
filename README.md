@@ -9,6 +9,5 @@ I am Currently Learning Harvard University Cs50 Course.
 ## 🛠️ Tools & Technologies
 Languages: C 
 
-
 ## 📫 How to Reach Me
 Email: byte112512@gmail.com
