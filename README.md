@@ -2,9 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Hermit&pause=1000&color=F78282&center=true&vCenter=true&width=435&lines=A+Computer+Science+Student;Currently+Studying+Harvard+CS50)](https://git.io/typing-svg)
 
 ## 🚀 Who Am I?
-- A Student interested in computer science
-- Currently learning C through Harvard’s CS50
-- Focused on fundamentals, problem solving, and writing clean code
+- A Student interested in computer science.
+- Currently learning C through Harvard’s CS50.
+- Focused on fundamentals, problem solving, and writing clean code.
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AyushSudo ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:byte112512@gmail.com) 
@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div> 
 
-## Projects
+## 🔨 Projects
 
 **Grade Calculator (C)**
 - A simple CLI program to calculate student grades.
