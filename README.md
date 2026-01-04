@@ -1,11 +1,6 @@
 # Hi, I’m Ayushman. A Student learning computer science, currently focused on C and problem solving.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Currently+Learning+C)](https://git.io/typing-svg)
 
-## 🚀 Who Am I?
-- A Student interested in computer science.
-- Currently learning C.
-- Focused on fundamentals, problem solving, and writing clean code.
-
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AyushSudo ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:byte112512@gmail.com) 
 
